@@ -1,0 +1,4 @@
+client_key = 'MmFQa4YLL3RO4XEgzBVkiPQZl'
+client_secret = 'IuwmLFzRH6NlT8DROF87YCk78g3XaFzXen3ydbCyYM1hEZo7hG'
+access_token = '17549879-nveLX2WJu6S38hXrOY32O84G8bvGjfXfiHmbPTMYy'
+access_token_secret = 'cTC4T2FQIMxiHW74pdEDnSaMsJFudtQ8asJfDiTffPvXM'
